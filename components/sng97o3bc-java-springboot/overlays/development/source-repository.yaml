@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sng97o3bc-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sng97o3bc-java-springboot
